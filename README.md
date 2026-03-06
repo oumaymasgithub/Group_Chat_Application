@@ -28,6 +28,7 @@ Start the server:
 ```bash
 java -jar TCPServerApp-1.0-SNAPSHOT.jar
 ```
+```bash
 POJECT STRUCTURE:
 TCPServerApp/
 ├── pom.xml
@@ -55,3 +56,4 @@ TCPClientApp/
     └── resources/
         ├── config.properties
         └── styles.css
+```
