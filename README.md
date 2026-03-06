@@ -27,7 +27,7 @@ Two separate projects:
 Start the server:
 ```bash
 java -jar TCPServerApp-1.0-SNAPSHOT.jar
-
+```
 POJECT STRUCTURE:
 TCPServerApp/
 ├── pom.xml
